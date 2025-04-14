@@ -1,0 +1,12 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Models and pickle files
+*.pkl
+
+# Depth optimizer script (not needed in repo)
+optimize_depth_data.py
+
+# Large raw depth data
+output_depth_data.csv

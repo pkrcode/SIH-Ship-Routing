@@ -1,0 +1,311 @@
+
+Starting batch 1 of 103 at 2024-11-29 17:44:26.018341
+
+Starting batch 2 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 3 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 4 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 5 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 6 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 7 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 8 of 103 at 2024-11-29 17:44:26.034054
+
+Starting batch 9 of 103 at 2024-11-29 17:44:26.042191
+
+Starting batch 10 of 103 at 2024-11-29 17:44:26.042191
+Successfully processed batch 3
+Successfully processed batch 8
+Successfully processed batch 5
+Successfully processed batch 1
+Successfully processed batch 7
+Successfully processed batch 10
+Successfully processed batch 9
+Successfully processed batch 6
+Successfully processed batch 4
+Successfully processed batch 2
+
+Starting batch 11 of 103 at 2024-11-29 17:44:34.580778
+
+Starting batch 12 of 103 at 2024-11-29 17:44:34.580778
+
+Starting batch 13 of 103 at 2024-11-29 17:44:34.580778
+
+Starting batch 14 of 103 at 2024-11-29 17:44:34.590527
+
+Starting batch 15 of 103 at 2024-11-29 17:44:34.593123
+
+Starting batch 16 of 103 at 2024-11-29 17:44:34.594133
+
+Starting batch 17 of 103 at 2024-11-29 17:44:34.596149
+
+Starting batch 18 of 103 at 2024-11-29 17:44:34.596765
+
+Starting batch 19 of 103 at 2024-11-29 17:44:34.598832
+
+Starting batch 20 of 103 at 2024-11-29 17:44:34.599830
+Successfully processed batch 11
+Successfully processed batch 12
+Successfully processed batch 13
+Successfully processed batch 14
+Successfully processed batch 15
+Successfully processed batch 16
+Successfully processed batch 17
+Successfully processed batch 19
+Successfully processed batch 18
+Successfully processed batch 20
+
+Starting batch 21 of 103 at 2024-11-29 17:44:41.943396
+
+Starting batch 22 of 103 at 2024-11-29 17:44:41.946845
+
+Starting batch 23 of 103 at 2024-11-29 17:44:41.946845
+
+Starting batch 24 of 103 at 2024-11-29 17:44:41.951866
+
+Starting batch 25 of 103 at 2024-11-29 17:44:41.951866
+
+Starting batch 26 of 103 at 2024-11-29 17:44:41.951866
+
+Starting batch 27 of 103 at 2024-11-29 17:44:41.958337
+
+Starting batch 28 of 103 at 2024-11-29 17:44:41.960030
+
+Starting batch 29 of 103 at 2024-11-29 17:44:41.960030
+
+Starting batch 30 of 103 at 2024-11-29 17:44:41.960030
+Successfully processed batch 21
+Successfully processed batch 22
+Successfully processed batch 27
+Successfully processed batch 26
+Successfully processed batch 25
+Successfully processed batch 24
+Successfully processed batch 30
+Successfully processed batch 29
+Successfully processed batch 28
+Successfully processed batch 23
+
+Starting batch 31 of 103 at 2024-11-29 17:45:51.800977
+
+Starting batch 32 of 103 at 2024-11-29 17:45:51.803965
+
+Starting batch 33 of 103 at 2024-11-29 17:45:51.806964
+
+Starting batch 34 of 103 at 2024-11-29 17:45:51.809963
+
+Starting batch 35 of 103 at 2024-11-29 17:45:51.810957
+
+Starting batch 36 of 103 at 2024-11-29 17:45:51.811958
+
+Starting batch 37 of 103 at 2024-11-29 17:45:51.812957
+
+Starting batch 38 of 103 at 2024-11-29 17:45:51.813957
+
+Starting batch 39 of 103 at 2024-11-29 17:45:51.814959
+
+Starting batch 40 of 103 at 2024-11-29 17:45:51.814959
+Successfully processed batch 31
+Successfully processed batch 33
+Error in batch 38 (attempt 1): Cannot connect to host api.open-meteo.com:443 ssl:default [The specified network name is no longer available]. Waiting 60 seconds...
+Error in batch 40 (attempt 1): Cannot connect to host api.open-meteo.com:443 ssl:default [The specified network name is no longer available]. Waiting 60 seconds...
+Successfully processed batch 32
+Successfully processed batch 34
+Successfully processed batch 35
+Successfully processed batch 36
+Successfully processed batch 39
+Successfully processed batch 37
+Successfully processed batch 38
+Successfully processed batch 40
+
+Starting batch 41 of 103 at 2024-11-29 17:46:59.848450
+
+Starting batch 42 of 103 at 2024-11-29 17:46:59.850435
+
+Starting batch 43 of 103 at 2024-11-29 17:46:59.853441
+
+Starting batch 44 of 103 at 2024-11-29 17:46:59.856434
+
+Starting batch 45 of 103 at 2024-11-29 17:46:59.858434
+
+Starting batch 46 of 103 at 2024-11-29 17:46:59.859429
+
+Starting batch 47 of 103 at 2024-11-29 17:46:59.860430
+
+Starting batch 48 of 103 at 2024-11-29 17:46:59.862759
+
+Starting batch 49 of 103 at 2024-11-29 17:46:59.862759
+
+Starting batch 50 of 103 at 2024-11-29 17:46:59.863757
+Successfully processed batch 41
+Successfully processed batch 42
+Successfully processed batch 47
+Successfully processed batch 45
+Successfully processed batch 49
+Successfully processed batch 43
+Successfully processed batch 48
+Successfully processed batch 50
+Successfully processed batch 46
+Successfully processed batch 44
+
+Starting batch 51 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 52 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 53 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 54 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 55 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 56 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 57 of 103 at 2024-11-29 17:47:06.700768
+
+Starting batch 58 of 103 at 2024-11-29 17:47:06.706889
+
+Starting batch 59 of 103 at 2024-11-29 17:47:06.708403
+
+Starting batch 60 of 103 at 2024-11-29 17:47:06.708403
+Successfully processed batch 53
+Successfully processed batch 56
+Successfully processed batch 51
+Successfully processed batch 54
+Successfully processed batch 55
+Successfully processed batch 57
+Successfully processed batch 58
+Successfully processed batch 59
+Successfully processed batch 52
+Successfully processed batch 60
+
+Starting batch 61 of 103 at 2024-11-29 17:47:13.096792
+
+Starting batch 62 of 103 at 2024-11-29 17:47:13.099964
+
+Starting batch 63 of 103 at 2024-11-29 17:47:13.102962
+
+Starting batch 64 of 103 at 2024-11-29 17:47:13.105958
+
+Starting batch 65 of 103 at 2024-11-29 17:47:13.107958
+
+Starting batch 66 of 103 at 2024-11-29 17:47:13.108954
+
+Starting batch 67 of 103 at 2024-11-29 17:47:13.110958
+
+Starting batch 68 of 103 at 2024-11-29 17:47:13.111956
+
+Starting batch 69 of 103 at 2024-11-29 17:47:13.113953
+
+Starting batch 70 of 103 at 2024-11-29 17:47:13.114955
+Successfully processed batch 61
+Successfully processed batch 65
+Successfully processed batch 63
+Successfully processed batch 64
+Successfully processed batch 62
+Successfully processed batch 66
+Successfully processed batch 68
+Successfully processed batch 70
+Successfully processed batch 69
+Successfully processed batch 67
+
+Starting batch 71 of 103 at 2024-11-29 17:47:19.463522
+
+Starting batch 72 of 103 at 2024-11-29 17:47:19.466449
+
+Starting batch 73 of 103 at 2024-11-29 17:47:19.468446
+
+Starting batch 74 of 103 at 2024-11-29 17:47:19.470444
+
+Starting batch 75 of 103 at 2024-11-29 17:47:19.472970
+
+Starting batch 76 of 103 at 2024-11-29 17:47:19.473968
+
+Starting batch 77 of 103 at 2024-11-29 17:47:19.475827
+
+Starting batch 78 of 103 at 2024-11-29 17:47:19.478264
+
+Starting batch 79 of 103 at 2024-11-29 17:47:19.479656
+
+Starting batch 80 of 103 at 2024-11-29 17:47:19.480933
+Successfully processed batch 71
+Successfully processed batch 72
+Successfully processed batch 76
+Successfully processed batch 77
+Successfully processed batch 73
+Successfully processed batch 75
+Successfully processed batch 80
+Successfully processed batch 74
+Successfully processed batch 79
+Successfully processed batch 78
+
+Starting batch 81 of 103 at 2024-11-29 17:48:26.377126
+
+Starting batch 82 of 103 at 2024-11-29 17:48:26.380392
+
+Starting batch 83 of 103 at 2024-11-29 17:48:26.383410
+
+Starting batch 84 of 103 at 2024-11-29 17:48:26.386406
+
+Starting batch 85 of 103 at 2024-11-29 17:48:26.388407
+
+Starting batch 86 of 103 at 2024-11-29 17:48:26.389402
+
+Starting batch 87 of 103 at 2024-11-29 17:48:26.391403
+
+Starting batch 88 of 103 at 2024-11-29 17:48:26.391403
+
+Starting batch 89 of 103 at 2024-11-29 17:48:26.392403
+
+Starting batch 90 of 103 at 2024-11-29 17:48:26.393405
+Successfully processed batch 81
+Successfully processed batch 83
+Successfully processed batch 82
+Successfully processed batch 86
+Successfully processed batch 84
+Successfully processed batch 85
+Successfully processed batch 89
+Successfully processed batch 87
+Successfully processed batch 90
+Successfully processed batch 88
+
+Starting batch 91 of 103 at 2024-11-29 17:48:33.012450
+
+Starting batch 92 of 103 at 2024-11-29 17:48:33.014597
+
+Starting batch 93 of 103 at 2024-11-29 17:48:33.017605
+
+Starting batch 94 of 103 at 2024-11-29 17:48:33.020601
+
+Starting batch 95 of 103 at 2024-11-29 17:48:33.022593
+
+Starting batch 96 of 103 at 2024-11-29 17:48:33.024589
+
+Starting batch 97 of 103 at 2024-11-29 17:48:33.026590
+
+Starting batch 98 of 103 at 2024-11-29 17:48:33.027589
+
+Starting batch 99 of 103 at 2024-11-29 17:48:33.028587
+
+Starting batch 100 of 103 at 2024-11-29 17:48:33.029589
+Successfully processed batch 91
+Successfully processed batch 92
+Successfully processed batch 93
+Successfully processed batch 97
+Successfully processed batch 94
+Successfully processed batch 95
+Successfully processed batch 99
+Successfully processed batch 96
+Successfully processed batch 100
+Successfully processed batch 98
+
+Starting batch 101 of 103 at 2024-11-29 17:49:40.126562
+
+Starting batch 102 of 103 at 2024-11-29 17:49:40.126562
+
+Starting batch 103 of 103 at 2024-11-29 17:49:40.126562
+Successfully processed batch 101
+Successfully processed batch 102
+Successfully processed batch 103
