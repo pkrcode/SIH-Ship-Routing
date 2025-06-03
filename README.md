@@ -18,9 +18,6 @@ This project is part of the **Smart India Hackathon (SIH) 2024**, where the goal
 
 - Python 3.x
 - Pygame
-- TensorFlow (if needed for any AI-related tasks)
-- MySQL (for database management)
-- Firebase (for remote monitoring)
 
 ### Installation
 
